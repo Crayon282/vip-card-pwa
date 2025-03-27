@@ -1,0 +1,16 @@
+{
+  "name": "冯钰茜的VIP会员卡",
+  "short_name": "VIP卡",
+  "description": "冯钰茜的专属VIP会员卡应用",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f8e1e7",
+  "theme_color": "#ff4f81",
+  "icons": [
+    {
+      "src": "https://i.imgur.com/OleuXpc.jpeg",
+      "sizes": "180x180",
+      "type": "image/jpeg"
+    }
+  ]
+}
